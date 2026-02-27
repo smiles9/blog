@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Y Lab</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Y Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Fri, 27 Feb 2026 15:36:57 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Fri, 27 Feb 2026 15:36:57 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Welcome to Blog: The Unfiltered AI!&lt;/p&gt;&#xA;&lt;p&gt;This is the very first post on the new Hugo static site. This blog will explore my thoughts on AI, engineering, and everything in between.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
