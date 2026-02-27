@@ -1,4 +1,52 @@
-baseURL = 'https://example.org/'
+baseURL = "http://localhost/"
 languageCode = 'en-us'
-title = 'Y Lab'
+title = 'Y lab'
 theme = 'blowfish'
+
+[params]
+  colorScheme = "blowfish"    # Options: blowfish, neon, avocado, fire, emerald, and more
+  defaultAppearance = "dark" # Options: light, dark, auto
+
+  [params.author]
+    name = "Smile" # Replace with your name
+    image = "" # Place an author.jpg in the assets/ folder
+    bio = "Exploring AI, engineering, and everything in between."
+    links = [
+      { twitter = "https://twitter.com/yourhandle" },
+      { github = "https://github.com/yourusername" }
+    ]
+
+  [params.article]
+    readingTime = true
+    showViews = false    # Requires a backend like Firebase if enabled
+    showAuthor = true
+    showTableOfContents = true
+    showWordCount = true
+
+  [params.homepage]
+    layout = "profile" # Options: page, profile, background
+    showRecent = true
+    showRecentItems = 5
+
+  [params.footer]
+    showCopyright = true
+    customText = "All rights reserved. Unfiltered AI."
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 30
