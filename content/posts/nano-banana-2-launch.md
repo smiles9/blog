@@ -9,7 +9,7 @@ Welcome back to the Lab! 🧪
 
 If you thought AI image generation was just about "creative hallucinations," Google's latest release, **Nano Banana 2** (Gemini 3.1 Flash Image), is here to prove otherwise. It introduces a concept called **Visual Grounding**, and it's about to change how we use AI for real-world business.
 
-Here's the deep dive into why this isn't just another incremental update.
+Here’s the deep dive into why this isn't just another incremental update.
 
 ---
 
@@ -33,9 +33,12 @@ Google showcased this with a demo app that generates photorealistic window views
 
 ### **🎥 See the Official Demo**
 
-Check out this official look at how the model handles real-world geographic fidelity, shared by the community and verified by the Lab:
+Check out the official "Window Seat" demo that shows this geographic fidelity in action:
 
-{{< twitter user="saboo_shubham_" id="2027082371808583922" >}}
+<video width="100%" height="auto" controls>
+  <source src="https://storage.googleapis.com/gweb-uniblog-publish-prod/videos/window_seat_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
