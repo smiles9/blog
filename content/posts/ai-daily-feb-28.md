@@ -1,5 +1,5 @@
 ---
-title: "📰 AI Daily: The 3-Minute Vitamin to Keep You on the Edge"
+title: "📰 AI Daily: Stop the 'Laziness' & Meet Your New Project Sidekick"
 date: 2026-02-28T12:45:00+02:00
 draft: false
 tags: ["AI News", "Productivity", "ChatGPT", "Efficiency"]

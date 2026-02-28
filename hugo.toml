@@ -22,6 +22,7 @@ theme = 'blowfish'
     showAuthor = true
     showTableOfContents = true
     showWordCount = true
+    showComments = true
 
   [params.homepage]
     layout = "profile" # Options: page, profile, background
