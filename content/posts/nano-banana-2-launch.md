@@ -1,5 +1,5 @@
 ---
-title: "🧪 Lab Notes: Nano Banana 2 — AI with a Real-World Passport"
+title: "🧪 Lab Notes: Nano Banana 2 — Why 'Visual Grounding' is a Game-Changer for Solopreneurs"
 date: 2026-02-28T16:45:00+02:00
 draft: false
 tags: ["AI Tools", "Nano Banana 2", "Google Gemini", "Visual Grounding", "Solopreneurship"]
@@ -33,12 +33,9 @@ Google showcased this with a demo app that generates photorealistic window views
 
 ### **🎥 See the Official Demo**
 
-Check out the official "Window Seat" demo that shows this geographic fidelity in action:
+**Click the image below to watch the official "Window Seat" demo on the Google AI Blog:**
 
-<video width="100%" height="auto" controls>
-  <source src="https://storage.googleapis.com/gweb-uniblog-publish-prod/videos/window_seat_demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Click to watch the Window Seat demo](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/window_seat_demo_play_button.max-1000x1000.png)](https://blog.google/innovation-and-ai/technology/developers-tools/build-with-nano-banana-2/)
 
 ---
 
