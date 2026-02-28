@@ -40,5 +40,5 @@ Open one of your **ChatGPT Projects** today and try the **"Sources from Apps"** 
 
 *Found this useful? Share Y Lab with a fellow solopreneur! Let’s grow smarter together.* ✨
 
-**— Smile**  
+**- Smile**  
 *Founder, Y Lab*
