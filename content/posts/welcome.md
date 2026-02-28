@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Y Lab! ✨ Exploring AI for Smarter Work & Life Balance."
-date: 2024-07-26T10:00:00+02:00
+date: 2026-02-28T10:00:00+02:00
 draft: false
 ---
 
