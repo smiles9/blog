@@ -30,7 +30,7 @@ Unlike older models that would give you a generic city, Nano Banana 2 uses its *
 
 Check out the official "Window Seat" demo that shows this geographic fidelity in action:
 
-{{< youtube dQw4w9WgXcQ >}}
+{{< twitter user="sundarpichai" id="2027057726170509724" >}}
 
 ---
 
