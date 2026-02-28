@@ -1,5 +1,5 @@
 ---
-title: "📰 AI Daily Digest: 5 Free Tools That Can Run Your Business (Feb 28, 2026)"
+title: "📰 AI Daily: The 3-Minute Vitamin — 5 Free Tools That Can Run Your Business"
 date: 2026-02-28T12:30:00+02:00
 draft: false
 tags: ["AI Tools", "Productivity", "Free Resources", "Business Efficiency"]
