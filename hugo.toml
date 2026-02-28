@@ -1,37 +1,49 @@
-baseURL = "http://localhost/"
+baseURL = "https://ylab.netlify.app/"
 languageCode = 'en-us'
 title = 'Y lab'
 theme = 'blowfish'
 
 [params]
-  colorScheme = "blowfish"    # Options: blowfish, neon, avocado, fire, emerald, and more
-  defaultAppearance = "dark" # Options: light, dark, auto
+  colorScheme = "blowfish"
+  defaultAppearance = "dark"
+  autoSwitchAppearance = true
+  enableSearch = true
+  enableCodeCopy = true
+
+  [params.header]
+    layout = "fixed-fill-blur" # Premium feel: blurry fixed header
 
   [params.author]
-    name = "Smile" # Replace with your name
-    image = "" # Place an author.jpg in the assets/ folder
-    bio = "Exploring AI, engineering, and everything in between."
+    name = "Smile"
+    image = "smile.png" # We can add this later
+    bio = "PhD in Education | AI Solopreneur | Innovator. Building Y Lab to help you master AI for efficiency and profit."
     links = [
-      { twitter = "https://twitter.com/yourhandle" },
-      { github = "https://github.com/yourusername" }
+      { linkedin = "https://linkedin.com/in/yourprofile" },
+      { twitter = "https://twitter.com/YLabAI" },
+      { github = "https://github.com/smiles9" }
     ]
+
+  [params.homepage]
+    layout = "background" # Dynamic background style
+    showRecent = true
+    showRecentItems = 6
+    cardView = true # Grid layout for posts
 
   [params.article]
     readingTime = true
-    showViews = false    # Requires a backend like Firebase if enabled
     showAuthor = true
     showTableOfContents = true
     showWordCount = true
     showComments = true
-
-  [params.homepage]
-    layout = "profile" # Options: page, profile, background
-    showRecent = true
-    showRecentItems = 5
+    showHero = true
+    heroStyle = "background" # Post titles with nice background overlays
+    sharingLinks = ["linkedin", "twitter", "whatsapp", "telegram", "email"]
 
   [params.footer]
     showCopyright = true
-    customText = "All rights reserved. Unfiltered AI."
+    customText = "Made with ❤️ at Y Lab"
+    showAppearanceSwitcher = true
+    showScrollToTop = true
 
 [menu]
   [[menu.main]]
