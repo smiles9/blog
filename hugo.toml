@@ -1,0 +1,50 @@
+baseURL = "https://ylab.netlify.app/"
+languageCode = "en-us"
+title = "Y Lab"
+theme = "blowfish"
+
+[params]
+  colorScheme = "blowfish"
+  defaultAppearance = "dark"
+  autoSwitchAppearance = true
+  enableSearch = true
+  enableCodeCopy = true
+
+  [params.header]
+    layout = "fixed-fill-blur"
+
+  [params.footer]
+    showCopyright = true
+    showAppearanceSwitcher = true
+    showScrollToTop = true
+    customText = "Made with ❤️ at Y Lab"
+
+  [params.homepage]
+    layout = "background"
+    homepageImage = "img/background.svg"
+    showRecent = true
+    showRecentItems = 6
+    cardView = true
+
+  [params.article]
+    showDate = true
+    showAuthor = true
+    showHero = true
+    heroStyle = "background"
+    showTableOfContents = true
+    showWordCount = true
+    showComments = true
+    sharingLinks = ["linkedin", "twitter", "whatsapp", "telegram", "email"]
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 20
