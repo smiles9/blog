@@ -17,7 +17,6 @@ enableCodeCopy = true
 
 [homepage]
   layout = "background"
-  homepageImage = "img/background.svg"
   showRecent = true
   showRecentItems = 6
   cardView = true
