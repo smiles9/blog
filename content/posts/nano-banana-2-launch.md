@@ -28,10 +28,9 @@ Unlike older models that would give you a generic city, Nano Banana 2 uses its *
 
 ### **🎥 See it in Action**
 
-Check out this official demo snippet of the "Window Seat" app:
+Check out the official "Window Seat" demo that shows this geographic fidelity in action:
 
-{{< youtube id="dQw4w9WgXcQ" >}} 
-*(Note: Replace with real Nano Banana 2 demo ID once available)*
+{{< twitter user="sundarpichai" id="2027057726170509724" >}}
 
 ---
 
