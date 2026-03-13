@@ -9,6 +9,7 @@ theme = "blowfish"
   autoSwitchAppearance = true
   enableSearch = true
   enableCodeCopy = true
+  Logo = "img/ylab-logo.png"
 
   [params.header]
     layout = "fixed-fill-blur"
