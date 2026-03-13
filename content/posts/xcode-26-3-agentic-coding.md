@@ -3,6 +3,7 @@ title: "🌱 The Sunday Reset: Xcode 26.3 and the Rise of the Coding Agent"
 date: 2026-03-01T09:00:00+02:00
 draft: false
 tags: ["Xcode", "AI Coding", "Apple", "Productivity", "Solopreneur"]
+image: "img/posts/xcode-agentic-hero.png"
 ---
 
 Welcome to the **Sunday Reset**. 🧪

@@ -3,6 +3,7 @@ title: "🧪 Lab Notes: Nano Banana 2 — Why 'Visual Grounding' is a Game-Chang
 date: 2026-02-28T16:45:00+02:00
 draft: false
 tags: ["AI Tools", "Nano Banana 2", "Google Gemini", "Visual Grounding", "Solopreneurship"]
+image: "img/posts/nano-banana-hero.png"
 ---
 
 Welcome back to the Lab! 🧪
