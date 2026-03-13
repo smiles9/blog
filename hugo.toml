@@ -10,6 +10,7 @@ theme = "blowfish"
   enableSearch = true
   enableCodeCopy = true
   Logo = "img/ylab-logo.png"
+  disableTextInHeader = true
 
   [params.header]
     layout = "fixed-fill-blur"
