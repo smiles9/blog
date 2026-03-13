@@ -1,147 +1,150 @@
 ---
-title: "AI Daily: Perplexity 推出本地 Personal Computer - 让 AI 代理常驻你的桌面"
+title: "AI Daily: Perplexity’s Local Personal Computer - Putting an AI Agent on Your Desk"
 date: 2026-03-13T09:00:00+01:00
 draft: false
 tags: ["AI Agents", "Perplexity", "Productivity", "Hardware", "On-device AI"]
 ---
 
-Perplexity 最近悄悄做了一件很有意思的事 - 不再只是一个在线问答 / 搜索产品，而是推出了一台实体小主机 **Personal Computer**。
+Perplexity has quietly done something interesting - instead of just being an online Q&A or “answer engine”, it is launching a physical box called **Personal Computer**.
 
-简单理解一下：
+In simple terms:
 
-> 这是一台长得有点像 Mac mini 的小盒子，可以让他们的 AI 代理 **长期在你的本地机器上运行**，像一个 24 小时不下线的“数字助理”。
+> It is a small Mac mini–style device that lets Perplexity’s AI agent run **continuously on your local machine** - like a digital assistant that never logs off.
 
-这件事背后，其实是从「云端模型」走向「本地常驻 AI 代理」的一次试探。
-
----
-
-## 1. 发生了什么？
-
-根据目前公开的信息和报道：
-
-- Perplexity 推出了一款名为 **Personal Computer** 的小型主机  
-- 目标是让他们的 **Computer Agent** 能够在用户的本地环境中长期运行  
-- 这台设备更像是一个专门为 AI 代理服务的“小服务器”  
-  - 常驻在线  
-  - 负责长时间任务  
-  - 监控和协助你的日常工作流
-
-想象一下，这不是一台给你装 Word 和浏览器的传统电脑，而是一台专门用来“养”一个 AI 代理的盒子。
+Behind this move is a bigger shift: from “cloud-only model in a tab” to **always-on local AI agent**.
 
 ---
 
-## 2. 从聊天机器人到常驻代理
+## 1. What actually happened?
 
-过去两年，绝大多数人用 AI 的方式是：
+From the early information and reporting:
 
-- 打开一个网站 / App  
-- 输入问题  
-- 得到一段回答  
-- 关掉页面，结束
+- Perplexity is launching a small device called **Personal Computer**  
+- The goal is to let its **Computer Agent** run long term in a user’s local environment  
+- The box behaves more like a dedicated “AI server” than a general-purpose PC  
+  - Always on  
+  - Handles long-running tasks  
+  - Monitors and assists with your day-to-day digital work
 
-Perplexity 这步棋，相当于在说：
-
-> 不要再把 AI 当成一个随叫随用的聊天工具，  
-> 而是把它当成一个 **常驻在你系统里的“背景进程”**。
-
-这种变化有几个关键点：
-
-- **从“按次调用”到“持续运行”**  
-  - 以前你有问题才去找 AI  
-  - 现在 AI 可以持续观察你的任务队列、文件和日历，主动帮你处理或提醒  
-- **从“对话”到“工作流”**  
-  - 对话只是入口  
-  - 真正的价值是：AI 会自己拆解任务、调用工具、长时间执行  
-- **从“云上账号”到“桌面上的盒子”**  
-  - 多了一个物理存在感  
-  - 更容易被想象成一个“团队成员”，而不是一个网站
-
-对于很多人来说，这可能是第一次认真思考：
-
-> 我到底要不要给 AI 在我桌上留一个固定的位置？
+This is not “another computer to install Word on”.  
+It is more like a little machine whose sole job is to **host an AI agent for you**.
 
 ---
 
-## 3. 对个人和小团队意味着什么？
+## 2. From chatbot to resident agent
 
-从 Y Lab 关注的角度来看，这件事很落在我们的核心问题上：
+For the last two years, most people have used AI like this:
 
-> AI 怎么帮你更高效、更有利润，而不是更多焦虑。
+- Open a website or app  
+- Ask a question  
+- Get an answer  
+- Close the tab and move on
 
-### 3.1 什么时候它有可能是“升级”？
+Perplexity’s move is basically saying:
 
-如果你符合下面的部分情况，类似 Perplexity Personal Computer 这样的设备，可能真的会带来增量价值：
+> Stop thinking of AI as something you “call” when you need it.  
+> Start thinking of it as a **background process** that lives inside your system.
 
-- 你有大量 **重复但结构化的数字工作**  
-  - 报表生成  
-  - 文档整理  
-  - 日常数据抓取和对比  
-- 你愿意把一些任务交给“守夜人”  
-  - 夜里跑批处理  
-  - 定期检查数据变化  
-  - 持续监控某些源的信息  
-- 你已经有一定的 AI 使用习惯  
-  - 不再只问“写一段文案”，而是愿意设计长期工作流
+There are a few important shifts here:
 
-在这种场景里，一个常驻本地的 AI 盒子，有点像：
+- **From one-off calls to continuous running**  
+  - Before: you only used AI when you had a question  
+  - Now: an agent can track tasks, files and calendar over time, and proactively help
+- **From “chat” to “workflow”**  
+  - Chat is just the entry point  
+  - The real value is in: planning tasks, calling tools, executing over hours or days
+- **From “cloud account” to “box on your desk”**  
+  - A physical device makes it feel more like a team member than a browser tab
 
-> 给你的个人工作室多招了一个“实习生”，  
-> 虽然还不完美，但可以长期看着后台和琐碎任务。
+For many people, this is the first time they seriously ask:
 
-### 3.2 什么时候它可能是“多一块电子废物”？
-
-同样也要诚实地说，如果出现下面这些情况，这种产品对你来说可能更像是负担：
-
-- 你现在连普通 AI Chat 都用得不多  
-- 你的工作高度线下，数字化程度不高  
-- 你没有精力去设计流程，只想偶尔问几个问题  
-- 你所在的组织对数据安全极其敏感，但你又说不清楚这台设备的数据边界
-
-对于这部分人来说：
-
-> 多一个盒子在桌上，不一定能换来更好的输出，  
-> 可能只是多一条电源线和一个时不时需要更新和维护的设备。
+> Do I want to give AI a permanent seat on my desk?
 
 ---
 
-## 4. 从“云上模型”到“在身边的智能体”
+## 3. What does this mean for individuals and small teams?
 
-如果往后看几年，类似 Perplexity Personal Computer 这样的尝试，可能是一个方向的早期形态：
+From a Y Lab perspective, the core question is always:
 
-- AI 不再只是浏览器里的一个标签页  
-- 而是变成 **“常驻在你生活和工作环境里的智能体”**  
-  - 有的在你手机里  
-  - 有的在你家里的设备上  
-  - 有的在你公司的本地服务器上
+> How does this help you work **smarter and more profitably**, not just more anxiously?
 
-对普通人和小团队来说，真正值得思考的问题是：
+### 3.1 When could this be an upgrade?
 
-- **我有哪些任务，值得让一个 AI 24 小时“值班”？**  
-- **哪些流程，交给 AI 长期跑，比自己反复来回切软件更省心？**  
-- **我愿意为“少操一点心”付出多少钱、多少时间去搭建？**
+Devices like Perplexity’s Personal Computer might be genuinely useful if:
+
+- You have a lot of **repetitive but structured digital work**  
+  - Reports, summaries, reconciliations  
+  - Document clean-up and organisation  
+  - Routine data collection and comparison  
+- You actually benefit from a “night shift”  
+  - Batch jobs running overnight  
+  - Regular checks on changing data or feeds  
+  - Ongoing monitoring of specific sources  
+- You already have some habits around using AI for workflows  
+  - You don’t just ask for a paragraph  
+  - You’re willing to design multi-step processes
+
+In that world, a local always-on AI box is a bit like:
+
+> Hiring a junior assistant who mainly lives in the background,  
+> watching the boring parts of your digital life so you don’t have to.
+
+### 3.2 When is it just one more piece of hardware?
+
+To be honest, there are also many cases where this kind of device is more likely to be clutter than leverage:
+
+- You barely use AI chat right now  
+- Your work is largely offline and not very digitised  
+- You have no time or interest in designing workflows - you just want quick answers  
+- Your organisation is extremely sensitive about data but you cannot clearly explain  
+  how this device handles storage, logging and access
+
+For that group, a box on the desk probably means:
+
+> One more power cable, one more thing to update,  
+> without a clear step change in outcomes.
 
 ---
 
-## 5. Y Lab 的小结
+## 4. From cloud models to “nearby” intelligent agents
 
-我更关心的不是某一个品牌，而是它代表的趋势：
+Looking a bit further ahead, products like Perplexity’s Personal Computer feel like an early sketch of a broader direction:
 
-- 从工具到同事  
-- 从按需调用到常驻后台  
-- 从一次性灵感，到长期稳定的“效能基础设施”
+- AI stops being just a tab in your browser  
+- It turns into **intelligent agents embedded in your environment**  
+  - Some on your phone  
+  - Some on home devices  
+  - Some on local or edge servers in your business
 
-短期建议很简单：
+The more useful questions for individuals and small teams are:
 
-- 不着急跟风买任何硬件  
-- 先认真盘一盘：  
-  - 你每天、每周、每月的工作中，  
-  - 有哪些事情其实已经在脑海里给了一个“如果有人帮我看着就好了”的标签
-
-当你能列出一份“如果有一个数字实习生，我会让 TA 做这些”清单，那才是你真的需要考虑这种本地 AI 代理设备的时刻。
-
-在那之前，把 AI 用好在浏览器和现有设备上，仍然是性价比最高的一步。
+- **Which tasks in my life are worth having a 24/7 agent for?**  
+- **Which workflows would genuinely become lighter if handled by a resident agent,  
+  instead of me context-switching across tools all day?**  
+- **What am I really willing to pay - in money and setup time - for “less mental load”?**
 
 ---
 
-如果你有在用 Perplexity 或者其他类似的 AI 代理工具，也欢迎你在评论区聊聊：  
-你最想让一个 24 小时不下线的 AI 帮你做的第一件事，会是什么？
+## 5. Y Lab’s take
+
+The interesting part here is not Perplexity itself, but the pattern:
+
+- From tools to teammates  
+- From one-off prompts to persistent processes  
+- From “AI as a clever trick” to **AI as infrastructure for how you work**
+
+In the short term, my suggestion is simple:
+
+- Don’t rush to buy any dedicated AI hardware just because it looks futuristic  
+- First, write your own list of:  
+  - Daily, weekly and monthly tasks where you already think  
+    “I wish someone could just watch this for me”
+
+When that list is clear - when you can describe your own “digital intern’s job description” - that is the moment a local AI agent box starts to make real sense.
+
+Until then, using AI well in the browser and on the devices you already own is still the highest-return move.
+
+---
+
+If you are already using Perplexity or other AI agent tools, a good reflection question is:  
+**What is the first task you would give to a 24/7 AI agent that never logs off?**
