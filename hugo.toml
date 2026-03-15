@@ -2,6 +2,7 @@ baseURL = "https://ylab.netlify.app/"
 languageCode = "en-us"
 title = "Y Lab"
 theme = "blowfish"
+googleAnalytics = "G-39LMEJZ80S"
 
 [params]
   colorScheme = "blowfish"
