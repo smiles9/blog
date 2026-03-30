@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Y Lab",
+  "url": "https://ylab.netlify.app/",
+  "description": "AI for Smarter Work & Life. Practical insights for solopreneurs, students, and digital builders.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Y Lab",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://ylab.netlify.app/img/ylab-logo.png"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://ylab.netlify.app/"
+  }
+}
